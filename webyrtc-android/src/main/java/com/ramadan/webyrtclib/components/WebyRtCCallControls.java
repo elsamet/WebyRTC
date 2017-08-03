@@ -1,4 +1,4 @@
-package com.ramadan.webyrtclib;
+package com.ramadan.webyrtclib.components;
 
 import android.annotation.TargetApi;
 import android.content.Context;
@@ -8,6 +8,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.CompoundButton;
 import android.widget.LinearLayout;
+
+import com.ramadan.webyrtclib.R;
 
 /**
  * Created by Mahmoud.Ramadan on 8/2/2017.

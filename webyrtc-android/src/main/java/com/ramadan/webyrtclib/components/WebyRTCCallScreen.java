@@ -1,4 +1,4 @@
-package com.ramadan.webyrtclib;
+package com.ramadan.webyrtclib.components;
 
 import android.content.Context;
 import android.support.design.widget.FloatingActionButton;
@@ -7,6 +7,10 @@ import android.view.LayoutInflater;
 import android.widget.FrameLayout;
 import android.widget.ImageView;
 import android.widget.TextView;
+
+import com.ramadan.webyrtclib.R;
+import com.ramadan.webyrtclib.WebyRTCIncomingCallOverlay;
+import com.ramadan.webyrtclib.WebyRTCPercentFrameLayout;
 
 /**
  * Created by Mahmoud.Ramadan on 8/2/2017.
